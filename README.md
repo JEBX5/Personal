@@ -1,4 +1,4 @@
-Projects undertaken to test Python ability:
+Projects undertaken to showcase Python ability:
 
 finance_calculator.py hase two functions:
 1. Allows a user to calculate the savings interest on an investment sum, using either simple or compound interest
